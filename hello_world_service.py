@@ -11,4 +11,4 @@ def difference(num_a, num_b):
 
 
 if __name__ == '__main__':
-    print_message()
+    print_message('Hello, I love you!')
