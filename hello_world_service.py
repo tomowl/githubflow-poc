@@ -1,5 +1,5 @@
-def print_message():
-    print("Hello, I love you")
+def print_message(message):
+    print(message)
 
 
 def print_another_message():
